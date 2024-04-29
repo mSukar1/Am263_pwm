@@ -1,0 +1,35 @@
+[C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_tmp] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x7004da80, size 0x0000b2c0 bytes
+Found section 2 with adddress 0x70058d40, size 0x00001510 bytes
+Found section 3 with adddress 0x7005a250, size 0x00000760 bytes
+Found section 4 with adddress 0x7005a9b0, size 0x00000430 bytes
+Found section 5 with adddress 0x7005ade0, size 0x00000218 bytes
+Found section 6 with adddress 0x7005aff8, size 0x00000128 bytes
+Found section 7 with adddress 0x7005b120, size 0x00000008 bytes
+Found section 8 with adddress 0x7005b128, size 0x000005b8 bytes
+[C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_tmp] Found 9 sections. 9 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+Merging section @ 0x70058d40 of size 0x00001510, with section @ 0x7004da80 of size 0x0000b2c0
+Merging section @ 0x7005a250 of size 0x00000760, with section @ 0x7004da80 of size 0x0000c7d0
+Merging section @ 0x7005a9b0 of size 0x00000430, with section @ 0x7004da80 of size 0x0000cf30
+Merging section @ 0x7005ade0 of size 0x00000218, with section @ 0x7004da80 of size 0x0000d360
+Merging section @ 0x7005aff8 of size 0x00000128, with section @ 0x7004da80 of size 0x0000d578
+Merging section @ 0x7005b120 of size 0x00000008, with section @ 0x7004da80 of size 0x0000d6a0
+Merging section @ 0x7005b128 of size 0x000005b8, with section @ 0x7004da80 of size 0x0000d6a8
+Writing section header  #0, adddress 0x00000000, size 0x00000040 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x00000000, size 0x00000040 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section header  #1, adddress 0x7004da80, size 0x0000dc60 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7004da80, size 0x0000b2c0 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x70058d40, size 0x00001510 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7005a250, size 0x00000760 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7005a9b0, size 0x00000430 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7005ade0, size 0x00000218 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7005aff8, size 0x00000128 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7005b120, size 0x00000008 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+Writing section data with adddress 0x7005b128, size 0x000005b8 bytes to file [C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc]
+[C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x7004da80, size 0x0000dc60 bytes
+[C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc] Found 2 sections. 2 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+[C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_xip] Parsing file ...
+[C:/dev/bitbucket/c2000/Hero2/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang/Release/epwm_protection_pru_am263px-cc_r5fss0-0_nortos_ti-arm-clang.rprc_xip] Found 0 sections. 0 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000

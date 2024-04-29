@@ -1,0 +1,7 @@
+
+*.rprc
+*.prefs
+*.launch
+*.d
+*.o
+*.mk
